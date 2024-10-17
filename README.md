@@ -26,6 +26,6 @@ I’m an IT student at North-West University (NWU), currently in my third year, 
 - Continue developing my skills in full-stack web development through personal projects and my bootcamp.
 
 ### Contact
-- **Portfolio**: [https://cyberkidleko.github.io/ng_ngwenya/]
-- **LinkedIn**: [https://www.linkedin.com/in/ngwenya-nomsa/]
-- **GitHub**: [https://github.com/CyberKidLeko]
+- **Portfolio**: [Protfolio](https://cyberkidleko.github.io/ng_ngwenya/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ngwenya-nomsa/)
+- **GitHub**: [Github](https://github.com/CyberKidLeko)
