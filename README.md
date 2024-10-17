@@ -1,7 +1,7 @@
 # Nomsa Gift Ngwenya | Web Developer & IT Student
 
 ### Summary
-I’m an IT student at North-West University (NWU), currently in my third year, with my final year scheduled for 2025. As a passionate web developer, I specialize in front-end development using HTML, CSS, and JavaScript, with experience building dynamic, user-centered applications. I am actively looking for internship opportunities in Pretoria to gain hands-on industry experience and further develop my full-stack skills.
+I’m an IT student at North-West University (NWU), currently in my third year, with my final year scheduled for 2025. As a passionate web developer, I specialize in front-end development using HTML, CSS, and JavaScript, with experience building dynamic, user-centered applications. I am actively looking for internship opportunities to gain hands-on industry experience and further develop my full-stack skills.
 
 ### Technical Skills
 - **Web Development**: HTML, CSS, JavaScript, basic React
